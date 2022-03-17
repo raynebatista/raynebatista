@@ -3,7 +3,7 @@
 ### About me
 👨‍💻 My name is Rayne Batista, I'm 26 years old and I live in <strong>Brazil</strong><br>
 🌱 I am in a career transition. My first graduation was in Environmental Engineering. <br>
-📝 Currently studying Software Engineering. <br>
+📝 Currently studying Computer Systems Analysis. <br>
 👯 I love learning new things and I'm looking for an opportunity to work in the front-end area. 
 
 ### Study status:
